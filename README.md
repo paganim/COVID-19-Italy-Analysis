@@ -7,3 +7,11 @@ A Novel Coronavirus (nCoV) is a new strain of coronavirus that has never previou
 ## Data
 
 The data used in these analyzes were taken from the official GitHub page of the Presidenza del Consiglio dei Ministri - Dipartimento della Protezione Civile: https://github.com/pcm-dpc/COVID-19.
+
+## In these analyzes
+  1. The national trend with Total Cases, Deaths, IUC Peoples, Actives and Discharged Healed
+  2. Charts in logaritmic scale of Total Cases, Deaths and Actives
+  3. Cases by Date of the Report
+  4. Pie Chart of cases in the Italian Regions
+  5. Bar graph with Total Cases, Actives, Deaths, Disharged Hearled and IUC Peoples in the Italian Regions
+  6. Time-series of Deaths in the Italian Regions
