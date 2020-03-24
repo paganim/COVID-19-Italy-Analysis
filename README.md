@@ -15,4 +15,3 @@ The data used in these analyzes were taken from the official GitHub page of the 
   4. Pie Chart of cases in the Italian Regions
   5. Bar graph with Total Cases, Actives, Deaths, Disharged Hearled and IUC Peoples in the Italian Regions
   6. Time-series of Deaths in the Italian Regions
->>>>>>> 4de1bfcb58022efaaccf6ae50166d4a2f43c6bff
