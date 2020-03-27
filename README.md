@@ -6,7 +6,7 @@ A Novel Coronavirus (nCoV) is a new strain of coronavirus that has never previou
 
 ## Data
 
-The data used in these analyzes were taken from the official GitHub page of the Presidenza del Consiglio dei Ministri - Dipartimento della Protezione Civile: https://github.com/pcm-dpc/COVID-19.
+The data used in these analyzes were taken from the official GitHub page of the "Presidenza del Consiglio dei Ministri - Dipartimento della Protezione Civile": https://github.com/pcm-dpc/COVID-19.
 
 ## In these analyzes
   1. The national trend with Total Cases, Deaths, IUC Peoples, Actives and Discharged Healed
