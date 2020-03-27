@@ -14,7 +14,7 @@ The data used in these analyzes were taken from the official GitHub page of the 
 <img src="figs/trend-of-covid-19-in-italy.png" />
 
 #### Cases and Deaths by Date of the Report
-<img src="figs/cases-and-deaths-by-date-of-report-covid-19-in-italy.png" /
+<img src="figs/cases-and-deaths-by-date-of-report-covid-19-in-italy.png" />
 
 #### Cases in the Italian Region
 <img src="figs/regions/cases-in-the-italian-regions-covid-19.png" />
