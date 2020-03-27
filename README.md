@@ -6,7 +6,21 @@ A Novel Coronavirus (nCoV) is a new strain of coronavirus that has never previou
 
 ## Data
 
-The data used in these analyzes were taken from the official GitHub page of the Presidenza del Consiglio dei Ministri - Dipartimento della Protezione Civile: https://github.com/pcm-dpc/COVID-19.
+The data used in these analyzes were taken from the official GitHub page of the "Presidenza del Consiglio dei Ministri - Dipartimento della Protezione Civile": https://github.com/pcm-dpc/COVID-19.
+
+## Last Important Graphs
+
+#### Trend of COVID-19 in Italy
+<img src="figs/trend-of-covid-19-in-italy.png" />
+
+#### Cases by Date of the Report
+<img src="figs/cases-by-date-of-report-covid-19-in-italy.png" />
+
+#### Cases in the Italian Region
+<img src="figs/regions/cases-in-the-italian-regions-covid-19.png" />
+
+#### Deaths by Regions in Italy due to COVID-19
+<img src="figs/regions/deaths-by-region-in-italy-due-to-covid-19.png" />
 
 ## In these analyzes
   1. The national trend with Total Cases, Deaths, IUC Peoples, Actives and Discharged Healed
