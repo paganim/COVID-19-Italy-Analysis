@@ -17,19 +17,19 @@ The data used in these analyzes were taken from the official GitHub page of the 
 ## Last Important Graphs
 
 #### Trend of COVID-19 in Italy
-<img src="figs/trend-of-covid-19-in-italy.png" />
+<img src="figs/trend-of-covid-19-in-italy.png" width=100% />
 
 #### Cases and Deaths by Date of the Report
-<img src="figs/cases-and-deaths-by-date-of-report-covid-19-in-italy.png" />
+<img src="figs/cases-and-deaths-by-date-of-report-covid-19-in-italy.png" width=100% />
 
 #### Distribution of Cases in the Italian Regions
-<img src="figs/regions/distribution-of-cases-italian-regions-covid-19.png"/>
+<img src="figs/regions/distribution-of-cases-italian-regions-covid-19.png" width=100% />
 
 #### Cases in the Italian Region
-<img src="figs/regions/cases-in-the-italian-regions-covid-19.png" />
+<img src="figs/regions/cases-in-the-italian-regions-covid-19.png" width=100% />
 
 #### Deaths by Regions in Italy due to COVID-19
-<img src="figs/regions/deaths-by-region-in-italy-due-to-covid-19.png" />
+<img src="figs/regions/deaths-by-region-in-italy-due-to-covid-19.png" width=100% />
 
 ## In these analyzes
   1. The national trend with Total Cases, Deaths, IUC Peoples, Actives and Discharged Healed
