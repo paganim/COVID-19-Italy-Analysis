@@ -4,9 +4,15 @@ Coronaviruses are a large family of viruses known to cause diseases ranging from
 
 A Novel Coronavirus (nCoV) is a new strain of coronavirus that has never previously been identified in humans. In particular, the one reported SARS-CoV-2 (previously 2019-nCoV), has never been identified before being reported in Wuhan, China, in December 2019.
 
+## Structure of repo
+* <a href="https://github.com/paganim/COVID-19-Italy-Analysis#data">Data</a>
+* <a href="https://github.com/paganim/COVID-19-Italy-Analysis#last-important-graphs">Last Important Graphs</a>
+* <a href="https://github.com/paganim/COVID-19-Italy-Analysis/tree/master/figs">All Graphs</a>
+* <a href="https://github.com/paganim/COVID-19-Italy-Analysis#in-these-analyzes">In these analyzes</a>
+
 ## Data
 
-The data used in these analyzes were taken from the official GitHub page of the "Presidenza del Consiglio dei Ministri - Dipartimento della Protezione Civile": https://github.com/pcm-dpc/COVID-19.
+The data used in these analyzes were taken from the official GitHub page of the "Presidenza del Consiglio dei Ministri - Dipartimento della Protezione Civile": https://github.com/pcm-dpc/COVID-19. In this repo: https://github.com/paganim/COVID-19-Italy-Analysis/tree/master/data
 
 ## Last Important Graphs
 
