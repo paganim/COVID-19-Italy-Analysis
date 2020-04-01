@@ -23,7 +23,7 @@ The data used in these analyzes were taken from the official GitHub page of the 
 <img src="figs/cases-and-deaths-by-date-of-report-covid-19-in-italy.png" width=100% />
 
 #### Distribution of Cases in the Italian Regions
-<img src="figs/regions/distribution-of-cases-italian-regions-covid-19.png" width=100% />
+<img src="figs/regions/distribution-of-cases-italian-regions-covid-19.png"/>
 
 #### Cases in the Italian Region
 <img src="figs/regions/cases-in-the-italian-regions-covid-19.png" width=100% />
