@@ -83,10 +83,10 @@
          <gmd:citation>
             <gmd:CI_Citation>
                <gmd:title xsi:type="PT_FreeText_PropertyType">
-                  <gco:CharacterString>COVID-19 Monitoraggio situazione Italia</gco:CharacterString>
+                  <gco:CharacterString>COVID-19 Monitoraggio situazione Italia (RNDT - Serie)</gco:CharacterString>
                   <gmd:PT_FreeText>
                      <gmd:textGroup>
-                        <gmd:LocalisedCharacterString locale="#locale-en">COVID-19 Monitoring of Italian situation</gmd:LocalisedCharacterString>
+                        <gmd:LocalisedCharacterString locale="#locale-en">COVID-19 Monitoring of Italian situation (RNDT - Series)</gmd:LocalisedCharacterString>
                      </gmd:textGroup>
                   </gmd:PT_FreeText>
                </gmd:title>

@@ -13,7 +13,7 @@
       <gco:CharacterString>PCM:000086:20200306:110700</gco:CharacterString>
    </gmd:parentIdentifier>
    <gmd:hierarchyLevel xmlns:csw="http://www.opengis.net/cat/csw/2.0.2">
-      <gmd:MD_ScopeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/gmxCodelists.xml#MD_ScopeCode" codeListValue="series" codeSpace="ISOTC211/19115">series</gmd:MD_ScopeCode>
+      <gmd:MD_ScopeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset" codeSpace="ISOTC211/19115">dataset</gmd:MD_ScopeCode>
    </gmd:hierarchyLevel>
    <gmd:contact xmlns:csw="http://www.opengis.net/cat/csw/2.0.2">
 		<gmd:CI_ResponsibleParty>
@@ -86,7 +86,7 @@
                   <gco:CharacterString>Zone di applicazione delle misura di contenimento del contagio da COVID-19 (RNDT Dataset)</gco:CharacterString>
                   <gmd:PT_FreeText>
                      <gmd:textGroup>
-                        <gmd:LocalisedCharacterString locale="#locale-en">Actions's implementation zone for containing COVID-19 contagion (RNDT Dataset)</gmd:LocalisedCharacterString>
+                        <gmd:LocalisedCharacterString locale="#locale-en">Actions' implementation zones for containing COVID-19 contagion (RNDT Dataset)</gmd:LocalisedCharacterString>
                      </gmd:textGroup>
                   </gmd:PT_FreeText>
                </gmd:title>
@@ -113,7 +113,7 @@
 					<gmd:date>
 						<gmd:CI_Date>
 							<gmd:date>
-								<gco:Date>2020-03-25</gco:Date>
+								<gco:Date>2020-04-02</gco:Date>
 							</gmd:date>
 							<gmd:dateType>
 								<gmd:CI_DateTypeCode codeSpace="ISOTC211/19115" codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="revision">revision</gmd:CI_DateTypeCode>
@@ -204,10 +204,10 @@
 						</gmd:CI_Series>
 					</gmd:series>
                <gmd:otherCitationDetails xsi:type="PT_FreeText_PropertyType">
-                  <gco:CharacterString>Decreto del Presidente del Consiglio dei Ministri 22 marzo 2020 - Ulteriori disposizioni attuative del decreto-legge 23 febbraio 2020, n. 6, recante misure urgenti in materia di contenimento e gestione dell'emergenza epidemiologica da COVID-19, applicabili sull'intero territorio nazionale; Decreto Legge 25 marzo 2020, n.19. Misure urgenti per fronteggiare l'emergenza epidemiologica da COVID-19</gco:CharacterString>
+                  <gco:CharacterString>Decreto del Presidente del Consiglio dei Ministri 1 aprile 2020 - Disposizioni attuative del decreto-legge 25 marzo 2020, n. 19, recante misure urgenti per fronteggiare l'emergenza epidemiologica da COVID-19, applicabili sull'intero territorio nazionale; Decreto Legge 25 marzo 2020, n.19. Misure urgenti per fronteggiare l'emergenza epidemiologica da COVID-19</gco:CharacterString>
                   <gmd:PT_FreeText>
                      <gmd:textGroup>
-                        <gmd:LocalisedCharacterString locale="#locale-en">Decree of the President of the Council of Ministers 22 March 2020 - Further implementing provisions of the decree-law 23 February 2020, n. 6, containing urgent measures regarding the containment and management of the epidemiological emergency from COVID-19, applicable throughout the national territory; Law Decree 25 March 2020, n.19. Urgent measures to deal with the epidemiological emergency from COVID-19</gmd:LocalisedCharacterString>
+                        <gmd:LocalisedCharacterString locale="#locale-en">Decree of the President of the Council of Ministers 1 april 2020 - Implementing provisions of the decree-law 25 March 2020, n. 19, containing urgent measures to face the epidemiological emergency from COVID-19, applicable on the whole national territory; Law Decree 25 March 2020, n.19. Urgent measures to deal with the epidemiological emergency from COVID-19</gmd:LocalisedCharacterString>
                      </gmd:textGroup>
                   </gmd:PT_FreeText>
                </gmd:otherCitationDetails>
@@ -417,20 +417,20 @@
 			<gmd:extent>
 				<gmd:EX_Extent>
 					<gmd:geographicElement>
-						<gmd:EX_GeographicBoundingBox>
-							<gmd:westBoundLongitude>
-								<gco:Decimal>7.2422</gco:Decimal>
-							</gmd:westBoundLongitude>
-							<gmd:eastBoundLongitude>
-								<gco:Decimal>13.7289</gco:Decimal>
-							</gmd:eastBoundLongitude>
-							<gmd:southBoundLatitude>
-								<gco:Decimal>42.9919</gco:Decimal>
-							</gmd:southBoundLatitude>
-							<gmd:northBoundLatitude>
-								<gco:Decimal>46.4919</gco:Decimal>
-							</gmd:northBoundLatitude>
-						</gmd:EX_GeographicBoundingBox>
+                  <gmd:EX_GeographicBoundingBox>
+                     <gmd:westBoundLongitude>
+                        <gco:Decimal>5.8466</gco:Decimal>
+                     </gmd:westBoundLongitude>
+                     <gmd:eastBoundLongitude>
+                        <gco:Decimal>19.5511</gco:Decimal>
+                     </gmd:eastBoundLongitude>
+                     <gmd:southBoundLatitude>
+                        <gco:Decimal>35.677</gco:Decimal>
+                     </gmd:southBoundLatitude>
+                     <gmd:northBoundLatitude>
+                        <gco:Decimal>48.0008</gco:Decimal>
+                     </gmd:northBoundLatitude>
+                  </gmd:EX_GeographicBoundingBox>
 					</gmd:geographicElement>
 				</gmd:EX_Extent>
 			</gmd:extent>
