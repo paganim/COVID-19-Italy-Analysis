@@ -19,7 +19,7 @@ The data used in these analyzes were taken from the official GitHub page of the 
 #### Trend of COVID-19 in Italy
 <img src="figs/trend-of-covid-19-in-italy.png" width=100% />
 
-#### Cases, Deaths, Disharged Healted and IUC Peoples by Date of the Report
+#### Cases, Deaths, Discharged Healted and IUC Peoples by Date of the Report
 <img src="figs/cases-and-deaths-and-healted-and-iuc-by-date-of-report-covid-19-in-italy.png" width=100% />
 
 #### Distribution of Cases in the Italian Regions
