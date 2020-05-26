@@ -26,7 +26,7 @@ The data used in these analyzes were taken from the official GitHub page of the 
 <img src="figs/mortality-rate-new-cases-vs-new-deaths-due-to-covid-2019-in-italy.png" width=100% />
 
 #### Distribution of Cases in the Italian Regions
-<img src="figs/regions/distribution-of-cases-italian-regions-covid-19.png"/>
+<img src="figs/regions/distribution-of-cases-italian-regions-covid-19.png" style="display: block;margin-left: auto;margin-right: auto;width: 50%;" />
 
 #### Cases in the Italian Region
 <img src="figs/regions/cases-in-the-italian-regions-covid-19.png" width=100% />
