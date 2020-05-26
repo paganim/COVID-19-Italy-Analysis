@@ -22,11 +22,11 @@ The data used in these analyzes were taken from the official GitHub page of the 
 #### Cases, Deaths, Discharged Healted and IUC Peoples by Date of the Report in Italy
 <img src="figs/cases-and-deaths-and-healted-and-iuc-by-date-of-report-covid-19-in-italy.png" width=100% />
 
-#### Mortality Rate (Total Cases vs. Deaths) dur to COVID-19 in Italy
-<img src="figs/mortality-rate-total-cases-vs-deaths-due-to-covid-2019-in-italy.png" width=100% />
+#### Mortality Rate (New Cases vs. New Deaths) due to COVID-19 in Italy
+<img src="figs/mortality-rate-new-cases-vs-new-deaths-due-to-covid-2019-in-italy.png" width=100% />
 
 #### Distribution of Cases in the Italian Regions
-<img src="figs/regions/distribution-of-cases-italian-regions-covid-19.png"/>
+<div align="center"><img src="figs/regions/distribution-of-cases-italian-regions-covid-19.png" /></div>
 
 #### Cases in the Italian Region
 <img src="figs/regions/cases-in-the-italian-regions-covid-19.png" width=100% />
