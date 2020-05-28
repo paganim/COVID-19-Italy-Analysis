@@ -4,10 +4,8 @@ Coronaviruses are a large family of viruses known to cause diseases ranging from
 
 A Novel Coronavirus (nCoV) is a new strain of coronavirus that has never previously been identified in humans. In particular, the one reported SARS-CoV-2 (previously 2019-nCoV), has never been identified before being reported in Wuhan, China, in December 2019.
 
-<div>
-    <h1 style="color:darkred">Last Important Update</h1>
-    <h4 style="color:darkred">Cases and deaths are slightly increasing</h4>
-</div>
+## Last Important Update
+#### Cases and deaths are slightly increasing
 
 
 ## Structure of this repo
